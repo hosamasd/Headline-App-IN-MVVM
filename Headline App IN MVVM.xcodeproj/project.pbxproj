@@ -13,6 +13,20 @@
 		4E16D193254D63C200AEB3D2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E16D191254D63C200AEB3D2 /* Main.storyboard */; };
 		4E16D195254D63C300AEB3D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E16D194254D63C300AEB3D2 /* Assets.xcassets */; };
 		4E16D198254D63C300AEB3D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E16D196254D63C300AEB3D2 /* LaunchScreen.storyboard */; };
+		4E16D1A6254D63E800AEB3D2 /* ExtensionUivew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E16D1A2254D63E700AEB3D2 /* ExtensionUivew.swift */; };
+		4E16D1A7254D63E800AEB3D2 /* UIImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E16D1A3254D63E700AEB3D2 /* UIImageView.swift */; };
+		4E16D1A8254D63E800AEB3D2 /* UILabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E16D1A4254D63E700AEB3D2 /* UILabel.swift */; };
+		4E16D1A9254D63E800AEB3D2 /* UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E16D1A5254D63E800AEB3D2 /* UIButton.swift */; };
+		4E16D1B2254D645100AEB3D2 /* HeadCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E16D1B1254D645100AEB3D2 /* HeadCell.swift */; };
+		4E16D1B7254D65ED00AEB3D2 /* Services.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E16D1B6254D65ED00AEB3D2 /* Services.swift */; };
+		4E16D1D9254D668C00AEB3D2 /* Source.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E16D1D8254D668C00AEB3D2 /* Source.swift */; };
+		4E4A45A7254D9EC000E9DF9D /* HeadlinesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4A45A6254D9EC000E9DF9D /* HeadlinesTableViewController.swift */; };
+		4E4A45AA254D9EDE00E9DF9D /* HeadlineListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4A45A9254D9EDE00E9DF9D /* HeadlineListViewModel.swift */; };
+		4E4A45AD254D9F0B00E9DF9D /* Headline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4A45AC254D9F0B00E9DF9D /* Headline.swift */; };
+		4E4A45B0254D9F2900E9DF9D /* HeadlineTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4A45AF254D9F2900E9DF9D /* HeadlineTableViewCell.swift */; };
+		4E4A45B3254DA04600E9DF9D /* HeadlineTableViewDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4A45B2254DA04600E9DF9D /* HeadlineTableViewDataSource.swift */; };
+		4EF66AD6254D8AB700F66F4A /* TableViewDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EF66AD5254D8AB700F66F4A /* TableViewDataSource.swift */; };
+		4EF66ADA254D8B2100F66F4A /* SourceListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EF66AD9254D8B2100F66F4A /* SourceListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +38,20 @@
 		4E16D194254D63C300AEB3D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4E16D197254D63C300AEB3D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4E16D199254D63C300AEB3D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4E16D1A2254D63E700AEB3D2 /* ExtensionUivew.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExtensionUivew.swift; sourceTree = "<group>"; };
+		4E16D1A3254D63E700AEB3D2 /* UIImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageView.swift; sourceTree = "<group>"; };
+		4E16D1A4254D63E700AEB3D2 /* UILabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UILabel.swift; sourceTree = "<group>"; };
+		4E16D1A5254D63E800AEB3D2 /* UIButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIButton.swift; sourceTree = "<group>"; };
+		4E16D1B1254D645100AEB3D2 /* HeadCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadCell.swift; sourceTree = "<group>"; };
+		4E16D1B6254D65ED00AEB3D2 /* Services.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services.swift; sourceTree = "<group>"; };
+		4E16D1D8254D668C00AEB3D2 /* Source.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Source.swift; sourceTree = "<group>"; };
+		4E4A45A6254D9EC000E9DF9D /* HeadlinesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadlinesTableViewController.swift; sourceTree = "<group>"; };
+		4E4A45A9254D9EDE00E9DF9D /* HeadlineListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadlineListViewModel.swift; sourceTree = "<group>"; };
+		4E4A45AC254D9F0B00E9DF9D /* Headline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Headline.swift; sourceTree = "<group>"; };
+		4E4A45AF254D9F2900E9DF9D /* HeadlineTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadlineTableViewCell.swift; sourceTree = "<group>"; };
+		4E4A45B2254DA04600E9DF9D /* HeadlineTableViewDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadlineTableViewDataSource.swift; sourceTree = "<group>"; };
+		4EF66AD5254D8AB700F66F4A /* TableViewDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewDataSource.swift; sourceTree = "<group>"; };
+		4EF66AD9254D8B2100F66F4A /* SourceListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +86,83 @@
 			children = (
 				4E16D18B254D63C200AEB3D2 /* AppDelegate.swift */,
 				4E16D18D254D63C200AEB3D2 /* SceneDelegate.swift */,
-				4E16D18F254D63C200AEB3D2 /* ViewController.swift */,
+				4E16D1AD254D63F100AEB3D2 /* services */,
+				4E16D1A1254D63D000AEB3D2 /* helpers */,
+				4EF66AD4254D8A9F00F66F4A /* dataSource */,
+				4E16D1B0254D640400AEB3D2 /* viewmodel */,
+				4E16D1AE254D63FA00AEB3D2 /* model */,
+				4E16D1AF254D63FF00AEB3D2 /* view */,
+				4E16D1AB254D63EB00AEB3D2 /* controller */,
 				4E16D191254D63C200AEB3D2 /* Main.storyboard */,
 				4E16D194254D63C300AEB3D2 /* Assets.xcassets */,
 				4E16D196254D63C300AEB3D2 /* LaunchScreen.storyboard */,
 				4E16D199254D63C300AEB3D2 /* Info.plist */,
 			);
 			path = "Headline App IN MVVM";
+			sourceTree = "<group>";
+		};
+		4E16D1A1254D63D000AEB3D2 /* helpers */ = {
+			isa = PBXGroup;
+			children = (
+				4E16D1A2254D63E700AEB3D2 /* ExtensionUivew.swift */,
+				4E16D1A5254D63E800AEB3D2 /* UIButton.swift */,
+				4E16D1A3254D63E700AEB3D2 /* UIImageView.swift */,
+				4E16D1A4254D63E700AEB3D2 /* UILabel.swift */,
+			);
+			path = helpers;
+			sourceTree = "<group>";
+		};
+		4E16D1AB254D63EB00AEB3D2 /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				4E16D18F254D63C200AEB3D2 /* ViewController.swift */,
+				4E4A45A6254D9EC000E9DF9D /* HeadlinesTableViewController.swift */,
+			);
+			path = controller;
+			sourceTree = "<group>";
+		};
+		4E16D1AD254D63F100AEB3D2 /* services */ = {
+			isa = PBXGroup;
+			children = (
+				4E16D1B6254D65ED00AEB3D2 /* Services.swift */,
+			);
+			path = services;
+			sourceTree = "<group>";
+		};
+		4E16D1AE254D63FA00AEB3D2 /* model */ = {
+			isa = PBXGroup;
+			children = (
+				4E16D1D8254D668C00AEB3D2 /* Source.swift */,
+				4E4A45AC254D9F0B00E9DF9D /* Headline.swift */,
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		4E16D1AF254D63FF00AEB3D2 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				4E16D1B1254D645100AEB3D2 /* HeadCell.swift */,
+				4E4A45AF254D9F2900E9DF9D /* HeadlineTableViewCell.swift */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		4E16D1B0254D640400AEB3D2 /* viewmodel */ = {
+			isa = PBXGroup;
+			children = (
+				4EF66AD9254D8B2100F66F4A /* SourceListViewModel.swift */,
+				4E4A45A9254D9EDE00E9DF9D /* HeadlineListViewModel.swift */,
+			);
+			path = viewmodel;
+			sourceTree = "<group>";
+		};
+		4EF66AD4254D8A9F00F66F4A /* dataSource */ = {
+			isa = PBXGroup;
+			children = (
+				4EF66AD5254D8AB700F66F4A /* TableViewDataSource.swift */,
+				4E4A45B2254DA04600E9DF9D /* HeadlineTableViewDataSource.swift */,
+			);
+			path = dataSource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +235,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E4A45AA254D9EDE00E9DF9D /* HeadlineListViewModel.swift in Sources */,
+				4E4A45B3254DA04600E9DF9D /* HeadlineTableViewDataSource.swift in Sources */,
+				4E16D1A6254D63E800AEB3D2 /* ExtensionUivew.swift in Sources */,
+				4EF66AD6254D8AB700F66F4A /* TableViewDataSource.swift in Sources */,
+				4E4A45B0254D9F2900E9DF9D /* HeadlineTableViewCell.swift in Sources */,
+				4E16D1A7254D63E800AEB3D2 /* UIImageView.swift in Sources */,
 				4E16D190254D63C200AEB3D2 /* ViewController.swift in Sources */,
+				4E16D1B2254D645100AEB3D2 /* HeadCell.swift in Sources */,
+				4EF66ADA254D8B2100F66F4A /* SourceListViewModel.swift in Sources */,
 				4E16D18C254D63C200AEB3D2 /* AppDelegate.swift in Sources */,
+				4E16D1A9254D63E800AEB3D2 /* UIButton.swift in Sources */,
+				4E16D1A8254D63E800AEB3D2 /* UILabel.swift in Sources */,
+				4E16D1B7254D65ED00AEB3D2 /* Services.swift in Sources */,
+				4E4A45AD254D9F0B00E9DF9D /* Headline.swift in Sources */,
+				4E4A45A7254D9EC000E9DF9D /* HeadlinesTableViewController.swift in Sources */,
+				4E16D1D9254D668C00AEB3D2 /* Source.swift in Sources */,
 				4E16D18E254D63C200AEB3D2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -296,7 +408,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hosam.net.Headline-App-IN-MVVM";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -315,7 +427,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hosam.net.Headline-App-IN-MVVM";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
